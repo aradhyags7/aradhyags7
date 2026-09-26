@@ -71,7 +71,7 @@ Hey! I'm **Aradhya**, an engineer and researcher working at the confluence of **
         <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python" />
         <img src="https://img.shields.io/badge/Research-Vector_Retrieval-orange?style=flat-square" />
       </p>
-      <p>A density- and dimension-aware proximity graph index engineered for resource-constrained vector retrieval with AVX2 SIMD acceleration (&lt; 0.42ms latency).</p>
+      <p>A density- and dimension-aware proximity graph index engineered for resource-constrained vector retrieval with AVX2 SIMD acceleration (&lt; 0.42ms latency, 98.7% Recall@10).</p>
     </td>
     <td width="50%">
       <h3 align="center">🧠 <a href="https://github.com/aradhyags7/AdaMem-FDE">AdaMem-FDE</a></h3>
@@ -80,7 +80,7 @@ Hey! I'm **Aradhya**, an engineer and researcher working at the confluence of **
         <img src="https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python" />
         <img src="https://img.shields.io/badge/ML-Continual_Learning-green?style=flat-square" />
       </p>
-      <p>Adaptive neural memory and feature distribution estimation foundation framework designed for robust continual learning (15/15 tests passing).</p>
+      <p>Adaptive neural memory and feature distribution estimation foundation framework designed for robust continual learning without catastrophic forgetting (15/15 tests passing).</p>
     </td>
   </tr>
   <tr>
@@ -91,27 +91,7 @@ Hey! I'm **Aradhya**, an engineer and researcher working at the confluence of **
         <img src="https://img.shields.io/badge/Faster--Whisper-STT-blueviolet?style=flat-square" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" />
       </p>
-      <p>A privacy-first, J.A.R.V.I.S.-inspired local AI desktop assistant running voice transcription and LLMs entirely offline on-device with zero cloud telemetry.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🩺 <a href="https://github.com/aradhyags7/Smriti">Smriti (स्मृति)</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-Dart-02569B?style=flat-square&logo=flutter" />
-        <img src="https://img.shields.io/badge/Healthcare-Cognitive_Care-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/Offline--First-Support-teal?style=flat-square" />
-      </p>
-      <p>AI-powered, offline-first cognitive care and memory preservation platform tailored for elderly dementia and MCI assistance in India's North Eastern Region.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌐 <a href="https://aradhyags7.github.io/Portfolio/">Interactive Portfolio</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Live_Site-Crimson-ff4d5a?style=flat-square&logo=googlechrome&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vite-Vanilla_JS-646CFF?style=flat-square&logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Canvas-Physics_2D-10B981?style=flat-square" />
-      </p>
-      <p>Minimalist personal showcase inspired by benscott.dev with 60fps constellation physics, benchmark cards, and responsive case-study architecture.</p>
+      <p>A privacy-first, J.A.R.V.I.S.-inspired local AI desktop assistant running voice transcription and LLMs entirely offline on-device with zero cloud telemetry (&lt; 350ms STT).</p>
     </td>
     <td width="50%">
       <h3 align="center">🍲 <a href="https://github.com/aradhyags7/MyMess">MyMess Platform</a></h3>
@@ -120,7 +100,27 @@ Hey! I'm **Aradhya**, an engineer and researcher working at the confluence of **
         <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi" />
         <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat-square&logo=postgresql" />
       </p>
-      <p>Smart campus mess subscription marketplace, real-time kitchen operations dashboard, and meal-scheduling waste reduction system.</p>
+      <p>Smart campus mess dining marketplace & kitchen OS featuring real-time headcount operations, dynamic rotating 60s QR meal passes, and Level-3 AI demand forecasting.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔐 <a href="https://github.com/aradhyags7/TwoOfUs">TwoOfUs</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-Dart-02569B?style=flat-square&logo=flutter" />
+        <img src="https://img.shields.io/badge/FastAPI-Python-009688?style=flat-square&logo=fastapi" />
+        <img src="https://img.shields.io/badge/Curve25519-E2EE-teal?style=flat-square" />
+      </p>
+      <p>Zero-knowledge end-to-end encrypted private couple space built with Curve25519 ECDH, XSalsa20-Poly1305 ciphers, multi-method 2FA, and ephemeral media (100% test suite).</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔭 <a href="https://github.com/aradhyags7/CosmoLens">CosmoLens</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-Astronomy-3776AB?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/Orbital-Pass_Tracking-9cf?style=flat-square" />
+        <img src="https://img.shields.io/badge/SGP4-Ephemeris-purple?style=flat-square" />
+      </p>
+      <p>Interactive deep-sky visualization and real-time orbital satellite pass tracking system calculating high-precision overhead passes and ephemeris tables.</p>
     </td>
   </tr>
 </table>
