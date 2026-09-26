@@ -142,7 +142,7 @@ I am a software engineer and researcher working at the intersection of **High-Pe
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com/?user=aradhyags7&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=aradhyags7&theme=tokyonight&hide_border=true&background=0D1117&timezone=Asia/Kolkata" alt="GitHub Streak" />
 </div>
 
 ---
