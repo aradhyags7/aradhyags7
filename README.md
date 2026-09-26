@@ -30,14 +30,15 @@
 
 ### 👨‍💻 About Me
 
-I am a software engineer and researcher working at the intersection of **High-Performance Systems**, **Machine Learning**, and **Human-Centric Applications**. 
+> *"Mechanical sympathy and mathematical elegance beat throwing brute-force compute at inefficient algorithms."*
 
-- 🌐 **Interactive Portfolio**: [aradhyags7.github.io/Portfolio](https://aradhyags7.github.io/Portfolio/) — 60 FPS physics constellation simulation, C++ AVX2 SIMD benchmarks, and architecture case studies.
-- 🚀 **Vector Search & Systems**: Researching density- & dimension-aware proximity graph indexing with SIMD/AVX2 acceleration ([`AdaptiveVec`](https://github.com/aradhyags7/AdaptiveVec)).
-- 🧠 **Deep Learning & Continual Memory**: Engineering adaptive neural memory architectures and continual learning frameworks in PyTorch ([`AdaMem-FDE`](https://github.com/aradhyags7/AdaMem-FDE)).
-- 🛡️ **Local-First & Private AI**: Building offline-first desktop voice assistants ([`Aegis`](https://github.com/aradhyags7/Aegis)) and cognitive healthcare tools ([`Smriti`](https://github.com/aradhyags7/Smriti)) powered by Ollama and Faster-Whisper.
-- 🔐 **Zero-Knowledge E2EE**: Architecting encrypted intimate partner spaces with Curve25519 ECDH and XSalsa20 ciphers ([`TwoOfUs`](https://github.com/aradhyags7/TwoOfUs)).
-- 📱 **Mobile & Cloud Platforms**: Developing scalable cross-platform applications with Flutter, Dart, React, and FastAPI ([`MyMess`](https://github.com/aradhyags7/MyMess), [`resource-shelf`](https://github.com/aradhyags7/resource-shelf)).
+Hey! I'm **Aradhya**, an engineer and researcher working at the confluence of **low-level systems** and **machine learning**. I build from first principles — whether that means hand-tuning AVX2 vector intrinsics on CPU silicon, formulating continual neural memory frameworks in PyTorch to combat catastrophic forgetting, or architecting sovereign edge platforms that run entirely on-device.
+
+* ⚡ **Core Obsession**: Bare-metal computing, SIMD vector engines, and CPU cache-hierarchy optimization.
+* 🧠 **Research Focus**: Continual learning, neural drift estimation, and million-scale proximity graph indexing.
+* 🛡️ **Privacy Principle**: Local-first intelligence — on-device inference with verifiable zero-knowledge privacy and zero cloud telemetry.
+* 🩺 **Real-World Impact**: Building offline-first cognitive clinical tools to bring therapy to underserved rural communities.
+* 💬 **Let's Talk About**: C++17/AVX2 intrinsics, PyTorch neural ODEs, on-device LLMs with Ollama, or Flutter system architecture.
 
 ---
 
