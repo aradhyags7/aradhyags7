@@ -44,21 +44,6 @@ I engineer software at the confluence of **bare-metal silicon efficiency** and *
 
 ---
 
-### ⚡ Verified Research & Production Benchmarks
-
-The core systems engineered across my open-source research workspace:
-
-| System | Domain & Architecture | Key Benchmark & Verified Metric | Stack |
-| :--- | :--- | :--- | :--- |
-| [**AdaptiveVec**](https://github.com/aradhyags7/AdaptiveVec) | Density-aware vector graph proximity index | **`< 0.42 ms`** P99 Latency • **`98.7%`** Recall@10 • **`3.4x`** SIMD Speedup | `C++17` `AVX2 SIMD` `Python` `CMake` |
-| [**AdaMem-FDE**](https://github.com/aradhyags7/AdaMem-FDE) | Continual learning neural memory framework | **`89.2%`** Retention across streaming tasks • **`15/15`** Tests Passing | `PyTorch 2.2+` `CUDA` `NumPy` |
-| [**Aegis**](https://github.com/aradhyags7/Aegis) | Sovereign local AI desktop assistant | **`< 350 ms`** STT Latency • **`100%`** Offline & Private • Zero Telemetry | `TypeScript` `Faster-Whisper` `Ollama` |
-| [**Smriti (स्मृति)**](https://github.com/aradhyags7/Smriti) | Offline-first cognitive care platform | **`87`** Backend & **`323`** Flutter Tests • Dialect-adapted clinical care | `Flutter` `Dart` `FastAPI` `SQLite` |
-| [**TwoOfUs**](https://github.com/aradhyags7/TwoOfUs) | Zero-knowledge E2EE private space | **`35/35`** Cryptographic Tests • Curve25519 ECDH • XSalsa20-Poly1305 | `Flutter` `FastAPI` `PostgreSQL` |
-| [**CosmoLens**](https://github.com/aradhyags7/CosmoLens) | Deep sky celestial & satellite visualization | **`10,000+`** Orbital objects tracked • SGP4 propagation • Ephemeris | `Python` `SGP4` `TLE` `NumPy` |
-
----
-
 ### 🔬 Silicon & Mathematical Execution
 
 ```cpp
