@@ -5,7 +5,7 @@
 
   <!-- Animated Terminal Typing Headline -->
   <a href="https://github.com/aradhyags7">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=%3E_Architecting+hardware-accelerated+SIMD+vector+retrieval+(AdaptiveVec);%3E_Continual+neural+memory+without+catastrophic+forgetting+(AdaMem-FDE);%3E_100%25+offline+sovereign+voice+intelligence+(Aegis);%3E_Zero-knowledge+asymmetric+cryptographic+systems+(TwoOfUs);%3E_Offline-first+clinical+cognitive+care+platforms+(Smriti)" alt="Typing Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=%3E_Architecting+hardware-accelerated+SIMD+vector+retrieval+(AdaptiveVec);%3E_Continual+neural+memory+without+catastrophic+forgetting+(AdaMem-FDE);%3E_100%25+offline+sovereign+voice+intelligence+(Aegis);%3E_Zero-knowledge+asymmetric+cryptographic+systems+(TwoOfUs);%3E_Adaptive+multimodal+AI+teaching+classroom+(Mentora)" alt="Typing Headline" />
   </a>
 
   <br/>
@@ -40,7 +40,7 @@ I engineer software at the confluence of **bare-metal silicon efficiency** and *
 * 🔬 **Continual Neural Memory**: Mitigating catastrophic representation drift via Feature Distribution Estimation (FDE) and selective episodic replay.
 * 🛡️ **Sovereign Local-First AI**: 100% offline edge intelligence — on-device INT8 quantized speech & LLM inference with zero cloud telemetry.
 * 🔐 **Verifiable Cryptography**: Zero-knowledge private architectures with Curve25519 asymmetric ECDH and XSalsa20-Poly1305 symmetric ciphers.
-* 🩺 **Human Consequence**: Designing offline-first clinical platforms for dementia care and memory preservation in underserved communities.
+* 🎓 **Multimodal Pedagogical AI**: Architecting real-time autonomous virtual classrooms with sub-500ms WebRTC voice, digital ink OCR, and symbolic mathematical reasoning.
 
 ---
 
@@ -114,13 +114,13 @@ inline float euclidean_distance_avx2(const float* a, const float* b, size_t dim)
       <p>A privacy-first local AI desktop assistant inspired by J.A.R.V.I.S. Runs real-time speech recognition and LLM inference entirely on localhost with zero cloud telemetry and zero external API dependencies.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🩺 <a href="https://github.com/aradhyags7/Smriti">Smriti (स्मृति)</a></h3>
+      <h3 align="center">🎓 <a href="https://github.com/aradhyags7/Mentora">Mentora</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Tests-410_Passing-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Flutter-Cross--Platform-02569B?style=flat-square&logo=flutter" />
-        <img src="https://img.shields.io/badge/Healthcare-Offline--First-teal?style=flat-square" />
+        <img src="https://img.shields.io/badge/Next.js_15-React_19-black?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/Voice-%3C500ms_WebRTC-FF4F00?style=flat-square&logo=webrtc" />
+        <img src="https://img.shields.io/badge/Math-SymPy_Symbolic-blue?style=flat-square" />
       </p>
-      <p>Offline-first, AI-assisted cognitive care and reminiscence therapy platform for elderly individuals with mild cognitive impairment & early dementia, featuring localized dialect voice prompts and caregiver metrics.</p>
+      <p>Adaptive multimodal AI virtual classroom platform that teaches rather than answers. Features sub-500ms WebRTC voice interaction with natural barge-in, digital handwriting OCR, and symbolic mathematical step verification.</p>
     </td>
   </tr>
   <tr>
