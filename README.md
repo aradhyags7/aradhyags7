@@ -55,7 +55,7 @@ I'm a **Computer Engineering student** working on systems, numerical computing, 
 
 **Systems & computing** &nbsp; C++ · Python · CMake · NumPy · PyTorch<br />
 **Apps & APIs** &nbsp; Dart · Flutter · TypeScript · React · FastAPI<br />
-**Data & development** &nbsp; PostgreSQL · SQLite · Git · Docker · Linux
+**Data & development** &nbsp; PostgreSQL · SQLite · Git · Docker 
 
 <p align="center">
   <a href="https://github.com/aradhyags7?tab=repositories">More projects</a> &nbsp;·&nbsp;
