@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/header-static.svg" />
-    <img src="assets/header.svg" width="100%" alt="Aradhya Shinde — Computer Engineering student working on systems and applied AI" />
-  </picture>
+  <img src="assets/header.gif" width="100%" alt="Aradhya Shinde — Computer Engineering student. Animated banner featuring AdaptiveVec, AdaMem-FDE, and SONICBULK." />
 </p>
 
 <p align="center">
@@ -11,7 +8,7 @@
   <a href="mailto:aradhyashinde2330@gmail.com">Email</a>
 </p>
 
-I'm a **Computer Engineering student** interested in systems, numerical computing, and applied AI. My projects range from C++ vector search and cache simulators to Flutter apps with encryption and offline sync.
+I'm a **Computer Engineering student** working on systems, numerical computing, and applied AI. I build C++ search and caching experiments, Python desktop tools, and encrypted communication apps.
 
 ### Selected work
 
@@ -19,12 +16,12 @@ I'm a **Computer Engineering student** interested in systems, numerical computin
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/aradhyags7/AdaptiveVec">AdaptiveVec</a></h3>
-      <p>A vector search index that adapts graph connectivity to local density and dimensionality. Implemented AVX2 distance kernels, mixed precision storage, and benchmark tooling.</p>
+      <p>A vector search index with graph connectivity adapted to local density and dimensionality. Includes AVX2 distance kernels, mixed precision storage, and reproducible benchmark tooling.</p>
       <p><code>C++17</code> <code>Python</code> <code>HNSW</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/aradhyags7/AdaMem-FDE">AdaMem-FDE</a></h3>
-      <p>Adaptive memory compression for neural fractional differential equations. Implemented sum-of-exponentials solvers and a custom PyTorch adjoint with gradient corrections when the memory representation changes.</p>
+      <p>Adaptive memory compression for neural fractional differential equations. Includes sum-of-exponentials solvers and a custom PyTorch adjoint that accounts for changes in the memory representation.</p>
       <p><code>Python</code> <code>PyTorch</code> <code>Numerical methods</code></p>
     </td>
   </tr>
@@ -42,9 +39,9 @@ I'm a **Computer Engineering student** interested in systems, numerical computin
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/aradhyags7/Smriti">Smriti</a></h3>
-      <p>An offline-first cognitive care prototype for patients, caregivers, and ASHA workers. My work focuses on cognitive trend logic, database integration, and SQLite-backed event synchronization.</p>
-      <p><code>Flutter</code> <code>Python</code> <code>SQLite</code></p>
+      <h3><a href="https://github.com/aradhyags7/SONICBULK">SONICBULK</a></h3>
+      <p>A desktop and CLI tool that turns PDF, DOCX, CSV, and text tracklists into an audio library. Includes track matching, a concurrent download pipeline, and metadata tagging.</p>
+      <p><code>Python</code> <code>PySide6</code> <code>asyncio</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/aradhyags7/Aegis">Aegis</a></h3>
