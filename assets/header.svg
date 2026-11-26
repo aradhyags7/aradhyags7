@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Aradhya Shinde</title>
+  <desc id="desc">Computer Engineering student. Systems, numerical computing, and applied AI. A gently animated proximity graph connects points on the right.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#0d1525"/>
+      <stop offset="1" stop-color="#101b2b"/>
+    </linearGradient>
+    <linearGradient id="accent" x2="1">
+      <stop stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#8ba4c9" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <style>
+    .mono { font-family: 'DejaVu Sans Mono', Consolas, monospace; }
+    .sans { font-family: 'DejaVu Sans', Arial, sans-serif; }
+    .flow { stroke-dasharray: 16 380; }
+    @media (prefers-reduced-motion: no-preference) {
+      .flow { animation: travel 7s linear infinite; }
+      .pulse { animation: breathe 4s ease-in-out infinite; }
+      .cursor { animation: blink 1.4s step-end infinite; }
+    }
+    @keyframes travel { to { stroke-dashoffset: -792; } }
+    @keyframes breathe { 0%, 100% { opacity: .25; } 50% { opacity: .8; } }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+  </style>
+  <rect x="1" y="1" width="1198" height="298" rx="18" fill="url(#bg)" stroke="#26354b"/>
+  <rect x="2" y="2" width="1196" height="296" rx="17" fill="url(#grid)"/>
+  <rect x="49" y="52" width="30" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="92" y="59" class="mono" font-size="12" letter-spacing="2.4" fill="#91a4c0">SYSTEMS / COMPUTING / APPLIED AI</text>
+  <text x="48" y="135" class="sans" font-size="57" font-weight="700" letter-spacing="-2" fill="#f0f6fc">Aradhya Shinde</text>
+  <text x="51" y="176" class="sans" font-size="19" fill="#a8bad2">Computer Engineering student</text>
+  <text x="51" y="239" class="mono" font-size="15" fill="#67e8f9">&gt; build. measure. understand.</text>
+  <rect class="cursor" x="328" y="225" width="8" height="17" rx="1" fill="#67e8f9"/>
+  <g fill="none" stroke="#384960" stroke-width="1.4">
+    <path d="M822 78L925 55L1012 107L1127 75M822 78L855 175L925 55M855 175L1012 107L1030 231L1127 75M855 175L927 250L1030 231M1012 107L1139 201L1030 231M822 78L1012 107M855 175L1030 231"/>
+    <path class="flow" d="M822 78L855 175L1012 107L1030 231L1139 201" stroke="#67e8f9" stroke-width="2"/>
+    <path class="flow" d="M925 55L1012 107L1127 75" stroke="#a78bfa" stroke-width="2"/>
+    <circle cx="1012" cy="107" r="24" stroke="#67e8f9" stroke-opacity=".2"/>
+    <circle class="pulse" cx="1012" cy="107" r="35" stroke="#67e8f9" stroke-opacity=".35"/>
+  </g>
+  <g fill="#121f32" stroke="#69829f" stroke-width="2">
+    <circle cx="822" cy="78" r="5"/>
+    <circle cx="925" cy="55" r="5"/>
+    <circle cx="855" cy="175" r="6"/>
+    <circle cx="1127" cy="75" r="5"/>
+    <circle cx="927" cy="250" r="5"/>
+    <circle cx="1030" cy="231" r="6"/>
+    <circle cx="1139" cy="201" r="5"/>
+  </g>
+  <circle cx="1012" cy="107" r="8" fill="#67e8f9"/>
+  <circle cx="1030" cy="231" r="3" fill="#a78bfa"/>
+</svg>
